@@ -22,7 +22,7 @@ I'm a Software Engineering graduate and Software Programming Technician from Col
 
 ## 📊 Featured Project
 
-### [Customer Shopping Behavior Analysis](https://github.com/valsnzit/customer-shopping-behavior-analysisL)
+### [Customer Shopping Behavior Analysis](https://github.com/valsnzit/customer-shopping-behavior-analysis)   
 
 Analyzed 3,900 purchase transactions using Python, PostgreSQL, SQL, Excel, and Power BI to explore customer spending, product ratings, discounts, subscriptions, and purchasing behavior.
 
