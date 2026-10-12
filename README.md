@@ -28,5 +28,5 @@ Analyzed 3,900 purchase transactions using Python, PostgreSQL, SQL, Excel, and P
 
 ## 🎓 Education
 
-- **Software Engineering** — Graduate
-- **Software Programming Technician** — Technical qualification
+- **Software Engineering** - Politécnico Grancolombiano
+- **Software Programming Technician** - Servicio Nacional de Aprendizaje (SENA)
